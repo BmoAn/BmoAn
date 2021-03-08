@@ -1,10 +1,10 @@
 ### Hi I'm Beom-Mo 👋
-### You can call me 'Bmo' or just 'Mo' for your convenience
+### Please call me 'Bmo' or just 'Mo' for your convenience
 
 
-#### 🎓 Dankook univ. bachelor's degree of economics
-#### 🌱 I’m currently learning Python (Data Anaysis)
-#### 📫 Please feel free to send me DM (on instagram) if you have anyquestions!😉
+##### 🎓 Dankook univ. bachelor's degree of economics
+##### 🌱 I’m currently learning Python (Data Anaysis)
+##### 📫 Please feel free to send me DM (on instagram) if you have anyquestions!😉
 
 
 #### Fun Fact : Yes, My name is same with this cute, but actually I'm not a gamer
