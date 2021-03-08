@@ -1,11 +1,15 @@
 ### Hi I'm Beom-Mo 👋
 ### Please call me 'Bmo' or just 'Mo' for your convenience
 
+/n
+/n
 
 ##### 🎓 Dankook univ. bachelor's degree of economics
 ##### 🌱 I’m currently learning Python (Data Anaysis)
 ##### 📫 Please feel free to send me DM (on instagram) if you have anyquestions!😉
 
+/n
+/n
 
 #### Fun Fact : Yes, My name is same with this cute, but actually I'm not a gamer
 <img src="https://user-images.githubusercontent.com/79951566/110274825-1d586b80-8013-11eb-8ce1-0a2e4225e59f.jpg"  width="100" height="100">
