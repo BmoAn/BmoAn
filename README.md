@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/79951566/110274825-1d586b80-8013-11eb-8ce1-0a2e4225e59f.jpg"  width="100" height="100">
 
-####  My name is same with this cute character, but actually I'm not a gamer
+####  Yes, My name is same with this cute, but actually I'm not a gamer
 <!--
 **BmoAn/BmoAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
